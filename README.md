@@ -20,6 +20,8 @@
 
 *Focused on sustainable technology solutions and conscious digitalization approaches.*
 
+> 🇩🇪 [Deutsches Profil](README-de.md)
+
 ## 🎯 Core Expertise & Technical Philosophy
 
 **5+ years** developing mission-critical systems in **Kotlin/JVM backend and desktop applications**, 
