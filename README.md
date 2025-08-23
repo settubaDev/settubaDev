@@ -16,11 +16,16 @@
 ---
 ## 📫 Connect
 
-**Professional Profiles**: [ App Store Front] | [Academic Publications] | [Technical Blog]
+**Professional Profiles**: [This profile in German 🇩🇪](README-de.md) | [ App Store Front] | [Academic Publications] | [Technical Blog] 
+
+**Complementary Specialization**: [Kotlin/JVM & Distributed Systems Profile](https://github.com/i-walker) 
+
+> **Note**: The Kotlin/JVM profile showcases my proven enterprise backend and
+> distributed systems expertise, targeting fintech, compiler tooling and
+> large-scale application development. Both profiles represent the same
+> engineer with complementary skill sets for different market segments.
 
 *Focused on sustainable technology solutions and conscious digitalization approaches.*
-
-> 🇩🇪 [Deutsches Profil](README-de.md)
 
 ## 🎯 Core Expertise & Technical Philosophy
 
@@ -252,7 +257,7 @@ hardware-software co-design projects and regulated market requirements
 
 **Remote or Hybrid collaboration** with **flexible timezone coverage** (US West Coast/East Coast:
 PST/EST, Europe: CET/GMT) - **available until 10:30 PM CET for international clients**.
-Specializing in **project-based consulting**, **long-term strategic partnerships**, and
+Specializing in **project-based consulting/development**, **long-term strategic partnerships**, and
 **multi-timezone coordination** for clients requiring deep technical expertise and
 regulatory compliance. Hybrid Engagements shall be within Germany, preferably Bavaria.
 
