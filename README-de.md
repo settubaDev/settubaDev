@@ -19,6 +19,13 @@
 
 **Professionelle Profile**: [App Store Developer Profil] | [Akademische Publikationen] | [Technischer Blog]
 
+**Komplementäre Spezialisierung**: [Kotlin/JVM & Verteilte Systeme Profil](https://github.com/i-walker) 
+
+> **Hinweis**: Das Kotlin/JVM Profil zeigt meine bewährte Unternehmens-Backend- und
+> verteilte Systeme-Expertise, die auf Fintech, Compiler-Tooling und großskalige
+> Anwendungsentwicklung abzielt. Beide Profile repräsentieren denselben Ingenieur mit
+> komplementären Fähigkeiten für verschiedene Marktsegmente.
+
 *Fokussiert auf nachhaltige Technologielösungen und bewusste Digitalisierungsansätze.*
 
 ## 🎯 Kernkompetenz & Technische Philosophie
