@@ -12,11 +12,9 @@ Proven experience in **Kotlin/JVM backend systems** and **formal verification** 
 
 **Email**: imran at settuba dot com
 
-**S/MIME Certificate**: [Coming Soon]
+**S/MIME Certificate [conforms ISO27001 & QWACs eIDAS]**: [Coming Soon]
 
 **ORCID iD**: 0009-0000-5855-9251
-
-**PGP Public Key**: [Coming Soon] | Fingerprint: `Available Soon`
 
 **Professional Profiles**: [Distributed Systems & Formal Verification](https://github.com/i-walker) | [Apple Silicon Research](https://github.com/settubaDev)
 
