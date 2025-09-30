@@ -12,7 +12,9 @@ Proven experience in **Kotlin/JVM backend systems** and **formal verification** 
 
 **Email**: imran at settuba dot com
 
-**S/MIME Certificate [ISO27001 certified & conforms QWACs eIDAS]**: [Coming Soon]
+**S/MIME Certificate [ISO27001 certified & conforms QWACs eIDAS]**:
+
+`C4:BF:28:BF:A4:8D:BF:B9:9C:D0:B3:9E:4F:F9:D7:6C:CC:F9:E5:50:40:27:F3:03:23:B4:A3:51:2A:21:18:74`
 
 **ORCID iD**: 0009-0000-5855-9251
 
